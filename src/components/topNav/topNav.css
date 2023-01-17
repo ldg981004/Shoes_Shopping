@@ -1,0 +1,25 @@
+.navbar-navbar{
+    background-color: black;
+    
+}
+
+.navbar-nav{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link{
+    padding-left: 3px;
+    padding-right: 3px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px 30px;
+}
+
+.search-bar{
+    display: flex;
+}

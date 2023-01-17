@@ -1,0 +1,26 @@
+.Header{
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.Contents{
+  background-color: yellow;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Btn_buy{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.buy_button{
+  font-size: 20px;
+  background-color: black;
+  font-weight: bold;
+  color: white;
+}
+

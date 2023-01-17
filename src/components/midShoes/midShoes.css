@@ -1,0 +1,55 @@
+
+.title{
+    margin-bottom: 20px;
+}
+
+.lb_title{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.wrap {
+    max-width: 1800px; height: 100%; background:#f8f8f8;
+    
+}
+.scroll__wrap {
+    overflow-x:auto; white-space:nowrap; font: size 5px;
+}
+
+.img_shoes{
+    width: 550px;
+    height: 550px;
+}
+
+.scroll--element 
+{display:inline-block; width:550px; height:550px; border:2px solid #222; background:red; font-size:16px; text-align:center;
+}
+.scroll--element + .scroll--element {
+    margin-left:60px;
+}
+
+
+.top{
+    display: flex;
+}
+
+.bottom{
+    display: flex;
+}
+
+.lb_top1{
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.lb_top2{
+    font-size: 16px;
+    margin-left: auto;
+}
+
+.lb_bottom{
+    font-size: 15px;
+    color: gray;
+    
+}
